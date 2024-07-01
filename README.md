@@ -1,62 +1,286 @@
-<div align="center"> <img src="https://res.cloudinary.com/dvzingci9/image/upload/v1691682049/Personal_Branding/Frame_164_meg7rg.png"> </div>
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Thanh+Tin!;" />
-</h1>
-
-<h3 align="center">I'm a Web Developer and UI/UX designer</h3>
-
-<br/>
-
-<div align="center">
-
- 🌍 I'm based in Vietnamese 
- 
- 🔭 I’m currently working on **a chat app**
-
- ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
- 
- </div>
-
-<div align="center"> 
-  <a href="mailto:tintran11.work@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/thanhtin/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://thanhtin4401.github.io/myWebSite/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
-
-<h2 align="center">:money_with_wings: freelancer platform :money_with_wings:</h2>
-<div align="center">
-<a href="https://www.upwork.com/freelancers/~016168d191a73ccc35" target="_blank" rel="noreferrer"><img src="https://play-lh.googleusercontent.com/y4bswMT02OROjzOPa5zDGsnXX5-cBABjF93j26seJH2cEHD4PuBW1d5VvwfYleeKf4_X" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.fiverr.com/thanh_tin?up_rollout=true" target="_blank" rel="noreferrer"><img src="https://logowik.com/content/uploads/images/fiverr-new3326.jpg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://www.freelancer.com/u/TinTran11" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/F/freelancer-com-logo-2B5CE1A961-seeklogo.com.png" width="36" height="36" alt="CSS3" /></a>
-<a href="https://www.peopleperhour.com/freelancer/tin-tran-front-end-developer-zaxjymzw" target="_blank" rel="noreferrer"><img src="https://d1a29h5kxv3oc2.cloudfront.net/dist/img/pph-share.ced894418333eca244808771d4a24a87.png" width="36" height="36" alt="CSS3" /></a>
-</div>
-
-<p align="center">
-  <img src="https://github.com/thanhtin4401/thanhtin4401/assets/85281544/a65ececb-7042-4a69-b9a6-71381c48b003" alt="giphy" />
-</p>
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,github,gitlab,express,firebase,mongodb" /><br>
-  <img src="https://skillicons.dev/icons?i=react,angular,electron,next,javascript,typescript,d3,redux,styledcomponents" /><br>
-    <img src="https://skillicons.dev/icons?i=jenkins,bootstrap,mui,mysql,html,css,sass,tailwind,vscode,figma,xd,ps,git" />
-</div>
-  <br/><br/><br/>
-<hr/>
-<br>
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  <br/><br/><br/>
-</div>
-
-<hr/>
-<br>
+ <html lang="vi" class="loading-site js"><head>
+    <link itemprop="thumbnailUrl" href="https://i.imgur.com/GUnpscv.png">
+    
+    
+    <meta charset="UTF-8">
+    
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    
+    <meta name="viewport" content="width=device-width,intital-scale=1.0">
+    
+    
+    <meta name="description" content="Anonymous_VNPC>
+    
+    
+    <meta name="keywords" content="programm, html,css,javascript">
+    
+    <meta name="author" content="P1ntadecal">
+    
+    <meta property="og:image" content="https://i.imgur.com/GUnpscv.png">
+    
+    
+    <title>
+    Hacked By luckky & TWH13_VN
+    </title>
+    
+    
+    
+    <script src="https://tsctxh.phhvpnvn.edu.vn/wp-includes/js/wp-emoji-release.min.js?ver=6.4.3" defer=""></script></head>
+    
+    
+    <body bgcolor="black" text="white" oncontextmenu="return false;" onkeydown="return false;" onmousedown="return false;" onclick="document.getElementById('lagu').play();fs()" id="body" onload="typeWriter()" style="cursor: none;">
+    
+    <script>
+    alert('Hacked By TWH13_VN & luckkystop ');</script>
+    
+    <style type="text/css">
+    
+          center {
+            font-family: Courier;
+          }
+          img {
+            opacity: 80%
+          }
+    
+          red {
+            color: red;
+          }
+    
+          #background-video {
+            height: 100vh;
+            width: 100vw;
+            object-fit: cover;
+            position: fixed;
+            left: 0;
+            right: 0;
+            top: 0;
+            bottom: 0;
+            z-index: -1;
+          }
+    
+          font {
+            text-shadow: #000 0px 0px 3px;
+            -webkit-font-smoothing: antialiased;
+          }
+    
+          div {
+            animation:  1s linear infinite;
+          }
+          
+          @keyframes glitch {
+    
+            2%,
+            64% {
+              transform: translate(2px, 0) skew(0deg);
+            }
+    
+            4%,
+            60% {
+              transform: translate(-2px, 0) skew(0deg);
+            }
+    
+            62% {
+              transform: translate(0, 0) skew(5deg);
+            }
+          }
+    
+          div:before,
+          div:after {
+            content: attr(title);
+            position: absolute;
+            left: 0;
+          }
+    
+          div:before {
+            animation: glitchTop 1s linear infinite;
+            clip-path: polygon(0 0, 100% 0, 100% 33%, 0 33%);
+            -webkit-clip-path: polygon(0 0, 100% 0, 100% 33%, 0 33%);
+          }
+    
+          @keyframes glitchTop {
+    
+            2%,
+            64% {
+              transform: translate(2px, -2px);
+            }
+    
+            4%,
+            60% {
+              transform: translate(-2px, 2px);
+            }
+    
+            62% {
+              transform: translate(13px, -1px) skew(-13deg);
+            }
+          }
+    
+          div:after {
+            animation: glitchBotom 1.5s linear infinite;
+            clip-path: polygon(0 67%, 100% 67%, 100% 100%, 0 100%);
+            -webkit-clip-path: polygon(0 67%, 100% 67%, 100% 100%, 0 100%);
+          }
+          
+          @keyframes glitchBotom {
+    
+            2%,
+            64% {
+              transform: translate(-2px, 0);
+            }
+    
+            4%,
+            60% {
+              transform: translate(-2px, 0);
+            }
+    
+            62% {
+              transform: translate(-22px, 5px) skew(21deg);
+            }
+          }
+          red {
+            color: red;
+          }
+        
+    </style>
+    
+    
+    <audio src="https://files.catbox.moe/re7hgi.mp3" autoplay="true" id="lagu" loop="">
+    
+    </audio>
+    
+    
+    <table width="100%" height="80%">
+    
+    
+    <tbody>
+    
+    <tr>
+    
+    <td>
+    
+    <center>
+    <div><img src=“https://files.catbox.moe/zn2kws.jpeg”width="190" height="190 alt=" "=""></div></center>
+    <center>                                                          
+    
+    
+    <br>
+    <b>
+    Hacked By TWH13_VN & HDerXT13_VN & luckkystop 
+    <red>
+    
+    <i>
+    <br>
+    Anonymous_VN & Cyb3r AnonHunTer_Vn
+    </i>
+    
+    </red>
+    
+    <br>
+    
+    <b>
+    
+    </b>
+    
+    <br>
+     
+    <red>
+    I Love You
+    </red>
+    <hr>
+   Mesenger sent to admin:
+   <br>
+   bạn đã bị hắc, không phải vì sự ngu dốt của bạn 
+    <br> 
+    mà vì chúng tôi yêu bạn,và chúng tôi muốn cảnh cáo bạn
+    <br>
+    web của bạn vẫn còn lỗ hổng 
+    <br>
+    kính thưa admin 
+    <br> đây không phải trò đùa, tôi thậm chí có thể rooted cả server của bạn
+    nên bạn hãy cẩn thận với các lỗ hổng.                    g
+    
+    <hr>
+    
+    hacker from vietnam
+    <br>
+    
+    <br>
+    Cyb3r AnonHunTer_VN | Anonymous_VN | Cyb3r AnonVietNam  | Anonymous_BN | Fell9 VIETNAM | CYBER BLACKHAT VIETNAM
+    <red>                                                                                                          
+    
+    <i>
+    
+    </i>
+    ()
+    </red>
+    
+    </b>
+    
+    <br>
+    
+    
+    <br>
+    
+    
+    <img src="https://i.gifer.com/758X.gif" alt="">
+                                              
+    
+    <br>
+    
+    
+    <hr>
+    
+    
+    <br>
+    
+    <marquee behavior="alternate">
+    
+    <b>
+    
+    <white>
+     
+    <i>
+    
+    </i>
+    
+    </white>
+    
+    <i>
+    
+    <red>
+    
+  luckkystop | Cyb3rHDTer_VN | TWH13_VN | Ano13_Vx | HDerXT13_VN
+    </red>
+    
+    </i>
+    
+    </b>
+    
+    </marquee>
+    
+    </b>
+    
+    <br>
+    
+    <br>
+    
+    
+    <audio src="https://files.catbox.moe/re7hgi.mp3" autoplay="1" controls="">
+    
+    </audio>
+    
+    
+    </center>
+    
+    </td>
+    
+    </tr>
+    
+    </tbody>
+    
+    </table>
+    
+    
+    
+    </body></html>
